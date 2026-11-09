@@ -32,8 +32,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85633163,
-        85671305
+        85633163
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,14 +43,13 @@
         {
             "continent_id":102191569,
             "country_id":85633163,
-            "localadmin_id":1108783613,
-            "region_id":85671305
+            "localadmin_id":1108783613
         }
     ],
     "wof:id":1108783613,
     "wof:lastmodified":1566585364,
     "wof:name":"Debedavan",
-    "wof:parent_id":85671305,
+    "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
